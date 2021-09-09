@@ -1,4 +1,4 @@
-# C-Shart-Lessons
+# C-Sharp-Lessons
 C# Уроки
 
 1. https://youtu.be/15uBp-9MmBs (C#. Урок 1. Первая программа)
