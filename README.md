@@ -6,3 +6,4 @@ C# Уроки
 3. https://youtu.be/6HqmPAYrJGs (C#. Урок 3. Типы перечислений)
 4. https://youtu.be/xMmuUzPLpGw (C#. Урок 4. Convert или Parse?)
 5. https://youtu.be/w4yNOX5LE5U (C#. Урок 5. Try-Catch-Finally, throw, фильтр when)
+6. https://youtu.be/M2fUqmHUejk (C#. Урок 6. Условные операторы IF, ELSE, ELSE IF)
