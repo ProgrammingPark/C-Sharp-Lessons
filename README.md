@@ -7,3 +7,4 @@ C# Уроки
 4. https://youtu.be/xMmuUzPLpGw (C#. Урок 4. Convert или Parse?)
 5. https://youtu.be/w4yNOX5LE5U (C#. Урок 5. Try-Catch-Finally, throw, фильтр when)
 6. https://youtu.be/M2fUqmHUejk (C#. Урок 6. Условные операторы IF, ELSE, ELSE IF)
+7. https://youtu.be/jw6tvPZuxr0 (C#. Урок 7. Арифметические действия)
