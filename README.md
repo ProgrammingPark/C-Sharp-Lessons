@@ -9,3 +9,4 @@ C# Уроки
 6. https://youtu.be/M2fUqmHUejk (C#. Урок 6. Условные операторы IF, ELSE, ELSE IF)
 7. https://youtu.be/jw6tvPZuxr0 (C#. Урок 7. Арифметические действия)
 8. https://youtu.be/AtAvA0fyhgg (C#. Урок 8. Оператор Switch. Case с условиями и фильтром when)
+9. https://youtu.be/qEq9w55Rea8 (C#. Урок 9. Операторы итераций. For, do while, while. Continue, break)
